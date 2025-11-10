@@ -1,0 +1,90 @@
+Date: 10/11/2025
+Time: 7:42
+Phone Number: +584143417985
+Message: ¡Hola! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 7:45
+Phone Number: +584143417985
+Message: ¡Hola! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 7:48
+Phone Number: +584143417985
+Message: ¡Hola! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 8:1
+Phone Number: +584143417985
+Message: ¡Hola carlos ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 8:5
+Phone Number: +584143417985
+Message: ¡Hola ana ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 8:13
+Phone Number: +584144164714
+Message: ¡Hola joshua ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 8:20
+Phone Number: +584243278274
+Message: ¡Hola carlos ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 8:23
+Phone Number: +584243278174
+Message: ¡Hola carlos ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 8:27
+Phone Number: +584243278174
+Message: ¡Hola carlos ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 8:38
+Phone Number: +584243278174
+Message: ¡Hola carlos ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 8:40
+Phone Number: +584143417985
+Message: ¡Hola karianna ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 8:43
+Phone Number: +584243278174
+Message: ¡Hola carlos ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 9:5
+Phone Number: +584143417985
+Message: ¡Hola carlos ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 10:10
+Phone Number: +584143417985
+Message: ¡Hola karianna ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 10:18
+Phone Number: +584143417985
+Message: ¡Hola joshua ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 10:45
+Phone Number: +584144164714
+Message: ¡Hola joshua ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 10:49
+Phone Number: +584143417985
+Message: ¡Hola kariana ! Bienvenido a nuestro sistema de Python.
+--------------------
+Date: 10/11/2025
+Time: 10:51
+Phone Number: +584143417985
+Message: ¡Hola karianna ! Bienvenido a nuestro sistema de Python.
+--------------------
