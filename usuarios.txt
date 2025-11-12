@@ -1,0 +1,4 @@
+{"nombre": "karianna", "apellido": "arriaga", "cedula": "94989", "correo": "ana@gmail.com", "telefono": "+584143417985"}
+{"nombre": "loana", "apellido": "ardila", "cedula": "2828228", "correo": "ana@gmail.com", "telefono": "+584143417985"}
+{"nombre": "carlos", "apellido": "arriaga", "cedula": "26133452", "correo": "ana@gmail.com", "telefono": "+584143417985"}
+{"nombre": "ana", "apellido": "arriaga", "cedula": "2718859", "correo": "ana@gmail.com", "telefono": "+584143417985"}
